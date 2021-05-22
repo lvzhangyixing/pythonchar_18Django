@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d4a8a17-0cef-4e7e-b7d6-2f2e33e9fdf5" name="tx" url="http://njtech.love">
+        <fileTransfer accessType="SFTP" host="1.116.250.152" port="22" sshConfigId="cf3a6d94-b8e3-4802-a816-a7dca3700d8e" sshConfig="root@1.116.250.152:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
